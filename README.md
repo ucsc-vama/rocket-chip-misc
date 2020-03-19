@@ -13,3 +13,11 @@ This repo contains code that used to develop Rocket Chip prefetcher.
 | Rocket-chip-HPM | Hardware performance monitor reader code. This can also be found at ```riscv-tools/riscv-tests/benchmark/common``` |
 | rocket-chip |  |
 
+
+
+
+# riscv-tools
+Fork of https://github.com/riscv/riscv-tools
+
+```riscv-tools/riscv-tests/benchmarks``` is different. Benchmarks here can read performance counters and print them out when benchmark finished. 
+
