@@ -1,0 +1,3 @@
+[submodule "Rocket-chip-HPM"]
+	path = Rocket-chip-HPM
+	url = https://github.com/haoozi/Rocket-chip-HPM.git
